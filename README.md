@@ -61,9 +61,7 @@ Hi, I'm Harsh Pandit! 👋
 ---
 
 ### 📫 Connect With Me
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ](https://www.linkedin.com/in/harsh-pandit-699846319)
 
