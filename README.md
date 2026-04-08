@@ -22,7 +22,7 @@ Hi, I'm Harsh Pandit! 👋
 
 ---
 
-### 🚀 Nexport Trade Pvt Ltd
+### 🚀 Nexport Trade 
 - 🌍 AI-powered global B2B trade platform
 - 🛡️ 95-99% fraud detection system
 - 💱 180 currencies support
