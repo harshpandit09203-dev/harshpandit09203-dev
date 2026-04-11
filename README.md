@@ -5,7 +5,7 @@ Hi, I'm Harsh Pandit! 👋
 ### 👨‍💻 About Me
 - 🎓 Final Year BSc CS Student — University of Mumbai (2026)
 - 📊 Data Scientist | Power BI | Python | SQL | ML
-- 🌍 Founder @ Nexport Trade Pvt Ltd — AI-powered global B2B platform
+- 🌍 Founder @ Nexport Trade  — AI-powered global B2B platform
 - 🔍 Open to Data Scientist / Data Analyst roles
 
 ---
