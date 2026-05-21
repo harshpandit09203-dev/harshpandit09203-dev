@@ -12,6 +12,13 @@
 
 ### 🔥 Featured Projects
 
+**🛡️ AI-Powered Cybersecurity Threat Intelligence Platform**
+- 🔐 Real-time network threat detection across 853,019+ events
+- 🤖 XGBoost 93.93% accuracy | Autoencoder anomaly detection
+- ⚡ FastAPI + Streamlit + PostgreSQL + Supabase — fully deployed
+- 📡 Kafka-style live threat streaming | Slack alerts
+- 🔗 [Live Demo](https://cybersecurity-threat-intelligence-ivpn.onrender.com) | [API Docs](https://cybersecurity-threat-intelligence-api.onrender.com/docs)
+
 **🛡️ AI-Based Buyer & Seller Fraud Detection System**
 - 🤖 Real-time fraud scoring engine for global B2B trade
 - ⚡ FastAPI + Streamlit + PostgreSQL — fully deployed
@@ -39,7 +46,7 @@
 
 ### 🛠️ Skills
 
-`Python` `SQL` `Machine Learning` `Power BI` `FastAPI` `Streamlit` `PostgreSQL` `Statistics` `Excel` `AI Tools`
+`Python` `SQL` `Machine Learning` `Power BI` `FastAPI` `Streamlit` `PostgreSQL` `XGBoost` `TensorFlow` `Statistics` `Excel` `AI Tools`
 
 ---
 
