@@ -221,19 +221,33 @@ FastAPI • REST APIs • Streamlit • Git • GitHub • Supabase • Render
 🔄 My Data Analytics Workflow
 
 Raw Data
+
    ↓
+   
 Data Profiling
+
    ↓
+   
 Data Cleaning & Quality Checks
+
    ↓
+   
 SQL Analysis
+
    ↓
+   
 Statistical Analysis
+
    ↓
+   
 Visualization & Dashboarding
+
    ↓
+   
 Business Insights
+
    ↓
+   
 AI-Assisted Decision Support
 
 ---
